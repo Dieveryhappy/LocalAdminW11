@@ -206,7 +206,7 @@ Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Siehe [LICENSE](LICENSE
 
 ## 👤 Autor
 
-**Daniel Bollig**
+**Dieveryhappy**
 
 ## 🤝 Beiträge
 
